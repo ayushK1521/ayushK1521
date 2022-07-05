@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ayushK1521
 - 👀 I’m interested in ..Web Development
-- 🌱 I’m currently learning ...Data Structures.
 
 
 <!---
